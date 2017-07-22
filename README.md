@@ -25,7 +25,7 @@ r += c.flush()
 
 ## Performance
 
-See
+See [Squash Benchmark](https://quixdb.github.io/squash-benchmark/)
 
 ## Link
 
